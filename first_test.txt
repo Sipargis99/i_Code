@@ -1,5 +1,5 @@
-ID
-Summary
-Preconditions
-Steps
-Expected result
+004
+Проверка окна
+Провести сайт
+Открыть сайт
+Сайт открывается хорошо
